@@ -2,7 +2,7 @@ import subprocess
 import time
 import sys
 
-ACCOUNT_ID = "5119513751827718"
+ACCOUNT_ID = "account id"
 CHECK_INTERVAL = 1
 
 def run(args):
